@@ -8,7 +8,7 @@ atOptions = {
     'width': 728,
     'params': {}
 };
-//document.write('<scr' + 'ipt type="text/javascript" src="//stupidityblueberryblessing.com/fa36fa4c82dc8022fda12fbc52902556/invoke.js"></scr' + 'ipt>');
+
 document.write('<scr' + 'ipt src="https://bauval.org/22/77cfe6acaa71c9d2dfabe7411629e1dc"></scr' + 'ipt>');
 
 document.write('</div>');
